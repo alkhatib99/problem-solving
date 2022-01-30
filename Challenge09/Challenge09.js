@@ -186,7 +186,7 @@ if(max <element)
 if(element <= budget)
 max=element;
 }
-console.log(max)   
+//console.log(max)   
 
 
 
